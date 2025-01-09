@@ -4,7 +4,7 @@ I'm Claus, the Mobile Lead at Schibsted Media, building the best news apps for i
 
 👨‍💻 Experience
 
-- Staff / Lead Engineer for Mobile at Schibsted News Media ([Aftonbladet](https://www.aftonbladet.se/), [SvD](https://www.svd.se/), [VG](https://www.vg.no/) and [more](https://schibstedmedia.com/))
+- Staff / Lead Engineer at Schibsted News Media ([Aftonbladet](https://www.aftonbladet.se/), [SvD](https://www.svd.se/), [VG](https://www.vg.no/) and [more](https://schibstedmedia.com/))
 - Former iOS Engineer at [Zendesk](https://www.zendesk.com/)
 - Former iOS Engineer at [Truecaller](https://www.truecaller.com/)
 - Former MacOS & iOS Engineer (Skype for Business) at [Microsoft](https://www.microsoft.com/)
