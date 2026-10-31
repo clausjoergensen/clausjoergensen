@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Claus, the Mobile Lead at Schibsted Media, building the best news apps for iOS in Sweden and Norway
+I'm Claus, the Mobile Lead at Schibsted Media, building the best news apps for all of Sweden and Norway.
 
 👨‍💻 Experience
 
