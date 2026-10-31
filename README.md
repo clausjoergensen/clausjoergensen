@@ -17,5 +17,5 @@ I'm Claus, the Mobile Lead at Schibsted Media, building the best news apps for a
 📫 Contact Info
 
 - Email: claus.joergensen@outlook.com
-- Personal Website: http://clausjoergensen.github.io/
-- LinkedIn: [clausjo](https://www.linkedin.com/in/clausjo/)
+- Personal Website: [clausjoergensen.github.io](http://clausjoergensen.github.io/)
+- LinkedIn: [linkedin.com/in/clausjo/](https://www.linkedin.com/in/clausjo/)
